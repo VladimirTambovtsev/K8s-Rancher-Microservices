@@ -1,5 +1,5 @@
 # Development image with all the Node.js stuff in it
-FROM node:10.23-alpine
+FROM node:10.23
 
 WORKDIR "/app"
 
