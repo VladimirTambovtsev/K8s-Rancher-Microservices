@@ -17,3 +17,6 @@
 # System Files
 .DS_Store
 Thumbs.db
+
+# AWS ELB
+my-elb-keys.pem
