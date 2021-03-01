@@ -1,3 +1,3 @@
-# Rancher K8s Microservices 
+# Microservices-ElasticBeanstalk-Travis-CI 
 
-[![Build Status](https://travis-ci.org/VladimirTambovtsev/K8s-Rancher-Microservices.svg?branch=main)](https://travis-ci.org/VladimirTambovtsev/K8s-Rancher-Microservices)
+[![Build Status](https://travis-ci.org/VladimirTambovtsev/Microservices-ElasticBeanstalk-Travis-CI.svg?branch=main)](https://travis-ci.org/VladimirTambovtsev/Microservices-ElasticBeanstalk-Travis-CI)
